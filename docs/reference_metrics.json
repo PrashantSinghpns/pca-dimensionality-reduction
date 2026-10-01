@@ -1,0 +1,21 @@
+{
+  "dataset": "synthetic_blobs",
+  "rows": 500,
+  "input_features": [
+    "feature_1",
+    "feature_2",
+    "feature_3",
+    "feature_4",
+    "feature_5"
+  ],
+  "random_state": 42,
+  "retained_components": 2,
+  "variance_retained": 0.8582383903281803,
+  "reconstruction_mse_original_units": 2.0614550419174367,
+  "versions": {
+    "numpy": "2.3.5",
+    "pandas": "3.0.1",
+    "scikit-learn": "1.9.1",
+    "matplotlib": "3.11.2"
+  }
+}
